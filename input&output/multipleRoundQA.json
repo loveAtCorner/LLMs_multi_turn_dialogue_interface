@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-02bf36497d3543c980ca2ae8cc4feb63",
+    "object": "chat.completion",
+    "created": 1690872676,
+    "model": "chinese-llama-alpaca-2",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "是的，西湖是杭州最著名的景点之一，它被誉为“人间天堂”。 <\\s>"
+            }
+        }
+    ]
+}

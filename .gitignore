@@ -1,5 +1,2 @@
-# 忽略 config.yaml 文件
-config.yaml
-
-# 忽略 dev_scripts 文件夹及其所有内容
-dev_scripts/
+# 忽略 dev_prompts 文件夹及其所有内容
+/dev_prompts

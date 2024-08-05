@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-8fc1b6356cf64681a41a8739445a8cf8",
+    "object": "chat.completion",
+    "created": 1690872695,
+    "model": "chinese-llama-alpaca-2",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "好的，请问您对杭州有什么特别的偏好吗？"
+            }
+        }
+    ]
+}
